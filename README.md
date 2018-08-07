@@ -6,7 +6,7 @@
 - My_malloc 
   - 通过系统调用sbrk(),基于双向链表管理实现了一个malloc和free
 - Ping 
-  - 使用原始套接字,拼接imcp报文,实现了一个简易的ping命令
+  - 使用原始套接字,拼接icmp报文,实现了一个简易的ping命令
 - PV 
   - 使用IPC的信号量尝试解决了哲学家就餐问题
 - shell
