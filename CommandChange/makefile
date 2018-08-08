@@ -1,5 +1,5 @@
-.PHONE:clean
-mymalloc:mymalloc.c
-	gcc -g  $^ -o $@ 
-clean :
-	rm -rf mymalloc 
+.POHNEY:clean
+main:Main.c
+	gcc $^ -o $@ -g
+clean:
+	rm -rf main
