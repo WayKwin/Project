@@ -1,6 +1,8 @@
 # 一些小练习 
+- FileCommpressed
+  - 基于哈夫曼树的文件压缩
 - CommandChange
-  - 将//*/*/(C)注释风格转换为 //(C++) 注释风格
+  - 将/* */(C)注释风格转换为 //(C++) 注释风格
 - IO_Mutipath 
   - 简单实现了EPOLL,POLL,SELECT的回显服务器 
 - My_Cp
